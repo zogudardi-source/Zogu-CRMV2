@@ -1,0 +1,5 @@
+{
+  "name": "ZoguOne Solutions -  SCRM V22- Onboarding V3",
+  "description": "A comprehensive, offline-first inventory and invoicing management system designed for German and Albanian small businesses. Features include inventory tracking, professional invoicing with German VAT, expense management, and a customer database. Built with React, Supabase, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
